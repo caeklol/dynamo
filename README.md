@@ -1,5 +1,4 @@
-# pico-template
+# dynamo
 
-my Raspberry Pi Pico C SDK template. this includes build scripts to \
-automatically put the Pico into bootsel mode and automatically upload \
-the built UF2
+usb interface based on PCM1808 and Raspberry Pi Pico \
+named by a friend
